@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "591244630065",
+    "project_id": "recicladoloreshidalgofirst",
+    "storage_bucket": "recicladoloreshidalgofirst.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591244630065:android:6e3a6534c6ff647288dd10",
+        "android_client_info": {
+          "package_name": "mx.edu.utng.arg.recicladoloresfirst"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAivvJ7YUOoGdsZVy0NdbZqCprEx3OHZiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
